@@ -1,0 +1,12 @@
+{
+  "files": {
+    "./spill.py": "./",
+    "./sted.py": "./",
+    "./gjenstand.py": "./",
+    "./katt.py": "./",
+    "./fiende.py": "./",
+    "./hendelse.py": "./",
+    "./minispill.py": "./",
+    "./figur.py": "./"
+  }
+}
